@@ -5,7 +5,8 @@
 - [gitignore設定](./gitignore.md)
 - [プロジェクトのテンプレートについて](./templates.md)
 - [ゲーム設定](./game_setting.md)
-- [ドット絵ゲームを作るための設定](./pixel_game.md)
+- [ピクセルパーフェクトなゲームを作るための設定](./pixel_game.md)
+- [2Dゲームの基礎](./2d_game.md)
 - [tips](./tips.md)
 
 ## お役立ちリンク集

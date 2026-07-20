@@ -26,8 +26,28 @@ project.godotにはプロジェクト設定が入る。例えば、
 
 ```
 
-
-
+├─addons
+├─assets
+│  ├─audio
+│  │  ├─bgm
+│  │  └─se
+│  ├─fonts
+│  ├─images
+│  └─shaders
+├─debug
+├─docs
+├─resources
+├─scenes
+│  ├─enemies
+│  ├─main
+│  ├─player
+│  ├─stages
+│  └─ui
+└─scripts
+    ├─autoload
+    ├─data
+    ├─domain
+    └─utils
 
 ```
 
