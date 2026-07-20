@@ -1,5 +1,13 @@
 # godot_study_note
 
+## 目次
+
+- [gitignore設定](./gitignore.md)
+- [プロジェクトのテンプレートについて](./templates.md)
+- [ゲーム設定](./game_setting.md)
+- [ドット絵ゲームを作るための設定](./pixel_game.md)
+- [tips](./tips.md)
+
 ## お役立ちリンク集
 
 
